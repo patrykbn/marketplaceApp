@@ -1,0 +1,5 @@
+# Ignore .env file
+.env
+
+# Optional: Ignore all .env files if they have different extensions
+.env.*
